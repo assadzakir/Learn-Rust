@@ -1,5 +1,4 @@
 # Learn-Rust
-Here in this code base, we will learn Rust Programming Language in simple baby steps. 
 
 ## Installation
 Please follow step by step procedure to install rust compiler along with other utilities from [here](https://www.rust-lang.org/tools/install).
